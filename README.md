@@ -61,9 +61,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Aceeesz/Aceeesz/output/snake.svg" alt="Snake animation" />
-
-###
