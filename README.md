@@ -47,11 +47,11 @@
 
 ###
 
-<img align="right" height="280" src="https://64.media.tumblr.com/132cc7632b84e4862060da22e3447e15/b5a078559b095136-61/s1280x1920/01e7bf511458ddc9bc8d15617fda505e88225a0c.jpg"  />
+<img align="right" height="250" src="https://64.media.tumblr.com/132cc7632b84e4862060da22e3447e15/b5a078559b095136-61/s1280x1920/01e7bf511458ddc9bc8d15617fda505e88225a0c.jpg"  />
 
 ###
 
-<img align="right" height="280" src="https://github.com/user-attachments/assets/3372ca82-31ba-4014-8c75-cac40b5d1db8" />
+<img align="right" height="250" src="https://github.com/user-attachments/assets/3372ca82-31ba-4014-8c75-cac40b5d1db8" />
 
   
 
