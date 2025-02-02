@@ -5,8 +5,6 @@
 
 ###
 
-![asd](https://github.com/user-attachments/assets/f5a1a224-fb4e-43c5-a25c-7948bec12147)
-
 <br clear="both">
 
 <div align="center">
@@ -49,11 +47,13 @@
 
 ###
 
-<img align="right" height="250" src="https://64.media.tumblr.com/132cc7632b84e4862060da22e3447e15/b5a078559b095136-61/s1280x1920/01e7bf511458ddc9bc8d15617fda505e88225a0c.jpg"  />
+<img align="right" height="300" src="https://64.media.tumblr.com/132cc7632b84e4862060da22e3447e15/b5a078559b095136-61/s1280x1920/01e7bf511458ddc9bc8d15617fda505e88225a0c.jpg"  />
 
 ###
 
-<img align="right" height="200" src="https://64.media.tumblr.com/7222c0fcc3e3c2a180e7d1f802a31974/8d245f8a21038f97-70/s400x600/d1f31362cfdb819fc10aa173c8841afa0ce588e3.gifv"  />
+<img align="right" height="300" src="https://github.com/user-attachments/assets/3372ca82-31ba-4014-8c75-cac40b5d1db8" />
+
+  
 
 ###
 
