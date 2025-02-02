@@ -1,8 +1,10 @@
 <br clear="both">
+![asd](https://github.com/user-attachments/assets/bdc0f1f3-1c5f-4006-8a8b-02dd4ac022ff)
 
 <h6 align="left">Hi 👋! My name is Christian Efa, and I'm a Computer Engineering student from Technological Institute of the Philippines.<br>I'm passionate about IoT, robotics, and machine perception, and I aspire to become a future hardware engineer. 🚀</h6>
 
 ###
+
 
 <br clear="both">
 
