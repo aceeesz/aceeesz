@@ -50,6 +50,10 @@
 
 ###
 
+<img align="right" height="200" src="https://64.media.tumblr.com/7222c0fcc3e3c2a180e7d1f802a31974/8d245f8a21038f97-70/s400x600/d1f31362cfdb819fc10aa173c8841afa0ce588e3.gifv"  />
+
+###
+
 <div align="left">
   <a href="https://open.spotify.com/user/31a343uaw3j77yrawq7qqqx52q2i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31a343uaw3j77yrawq7qqqx52q2i&count=3" alt="Spotify recently played"  />
