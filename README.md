@@ -1,7 +1,7 @@
 <br clear="both">
 
 
-<h6 align="left">Hi 👋! My name is Christian Efa, and I'm a Computer Engineering student from Technological Institute of the Philippines.<br>I'm passionate about IoT, robotics, and machine perception, and I aspire to become a future hardware engineer. 🚀</h6>
+<h6 align="left">Hi 👋! My name is Christian Efa, and I'm a Computer Engineer Graduated from Technological Institute of the Philippines.<br>I'm passionate about IoT, robotics, and machine perception. 🚀</h6>
 
 ###
 
